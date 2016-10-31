@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TeachmeMath</string>
+    <string name="title_activity_login">Login</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Masuk</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+    <string name="title_activity_page1">TeachmeMath</string>
+    <string name="action_logout">Logout</string>
+    <string name="title_activity_page2">TeachmeMath</string>
+    <string-array name="usertype">
+        <item>Murid</item>
+        <item>Guru</item>
+        <item>Orangtua</item>
+    </string-array>
+</resources>
